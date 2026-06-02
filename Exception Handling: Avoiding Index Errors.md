@@ -25,5 +25,6 @@ except:
 
 ## Output
 <img width="553" height="136" alt="image" src="https://github.com/user-attachments/assets/64156cdd-13b8-4766-aca7-09febbcce82c" />
+
 ## Result
 Thus,the program was implemented and executed successfully,and the required output was obtained.
